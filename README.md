@@ -9,4 +9,4 @@ Steps to use this application:
 
 Note: Detection accuracy is primarily for "Printed Text" , handwritten text would provide low accuracy.
 
-![]()
+![](https://github.com/praveenRI007/Snipping-tool-OCR/blob/main/gif.gif)
